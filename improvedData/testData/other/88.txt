@@ -1,0 +1,1 @@
+Date Mon Dec GMT Server NCSA Content type text html CSE Prog Assignment CSE Programming Assignment due April Write Lisp function which will remove all the vowels from sentence Then run your function and show the output when the sentence Note that each letter here atom with space between each letter and that words are separated hyphens 

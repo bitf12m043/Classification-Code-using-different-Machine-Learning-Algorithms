@@ -1,0 +1,1 @@
+Date Tue Nov GMT Server NCSA Content type text html Last modified Fri Dec GMT Content length Paradyn demoParadyn System ArchitectureHere some more information about different parts the system Dynamic Instrumentation Performance ConsultantVisualization InterfaceMetric Definition LanguageUser InterfaceSupport for High Level LanguagesBack Paradyn home page clickhere 

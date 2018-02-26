@@ -1,0 +1,1 @@
+Date Tue Dec GMT Server NCSA Content type text html Last modified Fri Mar GMT Content length Demo Applet Sorry you are not using Java compatible browser This applet demonstrates some offscreen copying effects just toggles back and forth between two images using one the above copy effects see effect click one the buttons Copyright Jeremy Baerjbaer washington edu 

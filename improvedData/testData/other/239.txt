@@ -1,0 +1,1 @@
+Date Mon Dec GMT Server NCSA Content type text html Last modified Fri Nov GMT Content length Assignments ExamsAssignments ExamsName Released DueDescriptionPS Simple lisp problemsPS Reactive searching Vac AgentsPS logic satisfiabilityPS UCPOPProject this file should contain pointer the assignment itself but doesn Final 

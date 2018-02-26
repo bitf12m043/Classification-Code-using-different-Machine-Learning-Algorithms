@@ -1,0 +1,1 @@
+Date Mon Dec GMT Server NCSA Content type text html Lecture notes CSE Computer GraphicsWinter Quarter Lecture notes Introduction LocalIllumination Local Illumination GlobalIllumination Global Illumination Antialiasing GlobalIllumination Global Illumination Wavelets GeometricAlgebra Curves Surfaces Animation Principles Kinematics Natural Phenomena 

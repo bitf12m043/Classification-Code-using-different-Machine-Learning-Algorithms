@@ -1,0 +1,1 @@
+Date Tue Dec GMT Server NCSA Content type text html Last modified Fri Jan GMT Content length Computer Vision Projects Model Based Computer VisionTriplet Based Object Recognition Joint work with Kari Pulli Fast Parallel Object Recognition Joint work with Bharath Modayur Object Recognition Using Appearance Based Features and Relational Matching Joint work with Mauro Costa 

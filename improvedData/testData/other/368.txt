@@ -1,0 +1,1 @@
+WWW Alert Redirection response from server not handled this client Date Sun Aug GMT Server Apache Location http www washington edu building Connection close Content Type text html Moved PermanentlyMoved Permanently The document has moved here 

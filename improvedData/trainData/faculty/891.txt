@@ -1,0 +1,1 @@
+Date Mon Nov GMT Server Apache dev Content type text html Set Cookie Apache path Homepage Stephane Lafortune Welcome Bonjour 

@@ -1,0 +1,1 @@
+Date Tue Dec GMT Server NCSA Content type text html Last modified Wed Jun GMT Content length The Game Life the game life cells reproduce fill neighboring cells But when cell gets too crowded too lonely dies The Game Life The source 

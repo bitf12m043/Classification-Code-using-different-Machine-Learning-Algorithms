@@ -1,0 +1,1 @@
+Date Wed Jan GMT Server NCSA Content type text html Logic Programming Languages Logic Programming Languages Language metaphors Algol family Von Neumann machine functional programming function definition and application object oriented programming simulation logic programming theorem proving PrologConstraint Logic Programming 

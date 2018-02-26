@@ -1,0 +1,1 @@
+Date Wed Jan GMT Server NCSA Content type text html CSE Sample Test FixturesCSE Advanced Logic DesignCarl Ebeling Spring Sample test fixtures You may find these sample Verilog test fixtures useful examples during the quarter Each one includes header describing its operation EXAMPLE TFEXAMPLE TFEXAMPLE TFEXAMPLE TFINFILEEXAMPLE ebeling washington edu 
